@@ -42,3 +42,8 @@ git clone https://github.com/Sulaimannnnnn/saudi-legal ~/.claude/skills/saudi-le
 - الفهارس لقطة بتاريخ إعدادها (15/11/2026م)؛ الأنظمة تُعدَّل، والمهارة مأمورة بفتح النص من مصدره قبل الاستشهاد.
 - أداة `boe.py` تجلب نظاماً واحداً في كل مرة وتخزّنه أسبوعاً؛ موقع هيئة الخبراء يحجب الطلبات الآلية المتتابعة.
 - نصوص الأنظمة ملك لمصادرها الرسمية، والبحوث ملك لأصحابها؛ المهارة تفهرس وتُحيل ولا تعيد نشر المحتوى.
+
+## الترخيص · License
+
+[MIT](LICENSE) — كود المهارة ونصوصها حرّة الاستخدام والتعديل والنشر مع إبقاء إشعار الحقوق. نصوص الأنظمة تبقى لمصادرها الرسمية، والبحوث لأصحابها.
+The skill's code and text are MIT-licensed. Statute texts belong to their official sources and research papers to their authors.
